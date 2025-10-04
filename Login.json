@@ -18,5 +18,10 @@
     "username": "anto",
     "password": "1",
     "role": "vip"
+  },
+  {
+    "username": "rohman",
+    "password": "rohman",
+    "role": "member"
   }
 ]
